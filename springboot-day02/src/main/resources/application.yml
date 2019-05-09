@@ -1,0 +1,13 @@
+person:
+  # 字面量
+  name: wzj
+  age: 20
+  boss: true
+  # 对象和Map
+  girl-friend:    name: dyt
+    age: 20  map:    k1: v1
+    k2: v2
+  # 数组
+  list:    - dog
+    - cat
+  set: [cat,dog,pig]     
