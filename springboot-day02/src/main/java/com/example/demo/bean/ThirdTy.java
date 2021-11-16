@@ -9,5 +9,6 @@ public class ThirdTy {
         
         System.out.println("test pull");
         System.out.println("B: test pull");
+        System.out.println("A: test pull");
     }
 }
