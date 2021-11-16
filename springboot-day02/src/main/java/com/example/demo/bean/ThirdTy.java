@@ -8,5 +8,6 @@ public class ThirdTy {
         System.out.println("我是住在本地仓库2123");
         
         System.out.println("test pull");
+        System.out.println("B: test pull");
     }
 }
